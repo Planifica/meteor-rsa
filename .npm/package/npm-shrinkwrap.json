@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-rsa": {
+      "version": "0.2.23",
+      "dependencies": {
+        "lodash": {
+          "version": "3.3.0"
+        },
+        "asn1": {
+          "version": "0.2.2"
+        }
+      }
+    }
+  }
+}
