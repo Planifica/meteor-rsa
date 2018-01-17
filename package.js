@@ -10,7 +10,7 @@ Package.describe({
     documentation: 'README.md'
 });
 
-Npm.depends({'node-rsa': '0.2.23'});
+Npm.depends({'node-rsa': '0.3.0'});
 
 Package.onUse(function(api) {
     api.versionsFrom('1.1.0.2');
